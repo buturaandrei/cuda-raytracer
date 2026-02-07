@@ -1,0 +1,43 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+CudaRuntime1/x64/
+
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Build files
+*.obj
+*.pdb
+*.exe
+*.ilk
+*.log
+*.tlog/
+*.idb
+*.ipdb
+*.iobj
+*.exp
+*.lib
+*.dll
+
+# CUDA build files
+*.cu.deps
+*.cubin
+*.fatbin
+*.ptx
+*.gpu
+
+# NuGet packages (restored automatically)
+packages/
+
+# Output files
+*.ppm
+
+# IDE
+.idea/
+*.vcxproj.filters
