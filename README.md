@@ -117,7 +117,8 @@ Zero-copy rendering pipeline:
 
 | Configuration | Resolution | FPS (approx) |
 |--------------|------------|--------------|
-| GPU (RTX 2050) | 1280×720 | 16-30 FPS |
+| GPU mobile (RTX 2050) | 1280×720 | 16-30 FPS |
+| GPU (RTX 5070) | 1280×720 | 120-160 FPS |
 | CPU (single-threaded) | 1280×720 | 2-5 FPS |
 
 *Performance varies based on scene complexity and reflections enabled.*
